@@ -1,0 +1,18 @@
+<StackLayout>
+    <StackLayout class="input-field">
+                    <Label class="label" text="Search" row="1" col="0" textWrap="true"></Label>
+                    <TextField class="input input-border" id="searchQuery" hint="Search" text="" row="1" col="1"></TextField>
+                </StackLayout>
+    <Button (tap)="search()">
+        <FormattedString>
+            <Span text="&#xf002;" class="button-icon"></Span>
+        </FormattedString>
+    </Button>
+    <ListView [items]="contactsFound" (itemTap)="onItemTap($event)" class="list-group">
+    <ng-template let-contact="item" let-i="index" let-odd="odd" let-even="even">
+        <GridLayout class="list-group-item">
+            <Label [text]="contact"></Label>
+        </GridLayout>
+    </ng-template>
+</ListView>
+</StackLayout>

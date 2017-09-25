@@ -1,0 +1,7 @@
+<RadCartesianChart tkExampleTitle tkToggleNavButton>
+    <DateTimeContinuousAxis tkCartesianHorizontalAxis minimum="11/01/2017" maximum="17/01/2017" majorStep="Day" dateFormat="MMM-dd"
+        labelFitMode="Rotate" labelRotationAngle="1.2"></DateTimeContinuousAxis>
+    <LinearAxis tkCartesianVerticalAxis></LinearAxis>
+
+    <LineSeries tkCartesianSeries [items]="categoricalSource" categoryProperty="TimeStamp" valueProperty="Amount"></LineSeries>
+</RadCartesianChart>

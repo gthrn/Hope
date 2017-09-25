@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\drawable-xhdpi\\icon.png",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\drawable-xhdpi\\logo.png",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\drawable-xhdpi\\background.png",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background.png"
+    }
+]

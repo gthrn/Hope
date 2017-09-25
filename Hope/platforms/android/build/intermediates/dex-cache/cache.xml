@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\Data-2017.1.908-nstrial-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="475255ec9033f7b1a420fed922d35a72d060d2af">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-Data-2017.1.908-nstrial-release_4e379b2a23b8a6912a1abfc699f4970dd8f35bdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\Input-2017.1.908-nstrial-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b489df08d9b7471a108e427ffd28491e196ec1a">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-Input-2017.1.908-nstrial-release_db0f22bb91045fe1eed282bbd1b9dc813774af63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-animated-vector-drawable-26.0.0-alpha1_b529f4d3ac7b638557111da367270f4d77904886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-support-core-utils-26.0.0-alpha1_dca273d5cd7fc15047f50431143b3ecc9c953c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\List-2017.1.908-nstrial-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eca67b1ec1a32376dd23298f75f1df057d21c2d8">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-List-2017.1.908-nstrial-release_39031dcbb53954c94498a877787655a5e377485f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-support-compat-26.0.0-alpha1_e6bfcffe6d8afeafb23cd329b934a0dc7bc33688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\Feedback-2017.1.908-nstrial-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b0ab1b31e8a35c44177da6f79f98b89d4810315">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-Feedback-2017.1.908-nstrial-release_a5df0b452933042d9a88f68bf0ca520db494967f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\Primitives-2017.1.908-nstrial-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecdb34dd86545669d616da35a018debd1042398a">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-Primitives-2017.1.908-nstrial-release_94f767ae253305f94a933a70168d982064977bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\TrotecMultiMeasureMobile\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\TrotecMultiMeasureMobile-runtime-unspecified_e164c5b704eb7debf5135e2d27899b8c97ead2f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-appcompat-v7-26.0.0-alpha1_6f2cb69ea397eb6ef09314d2a431d9e61c0ec970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\Gauges-2017.1.908-nstrial-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="811787ff0e51eb1d60d2b4c923f75f56530f14a4">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-Gauges-2017.1.908-nstrial-release_817ca7a764697eb6d7f4a3fb18c9c8689e2cbfe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-support-vector-drawable-26.0.0-alpha1_15df1543c2555634ab4ab5b8eb5a201bc632fa8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\support-annotations-26.0.0-alpha1_6e19730e12b52bbe108e400e840b8f93575587a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\TrotecMultiMeasureMobile\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\binding-generator_c9380c3ed6f0de5bcb121e2201c1b35e29c0b065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-support-fragment-26.0.0-alpha1_92383ba98b641047e83feefc5f787dd07b98d06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-recyclerview-v7-23.1.0_845fe79d339e722f6f62e1c3c2dff07b57258eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-support-v4-26.0.0-alpha1_e7369f2019b0e323ecad86f5cbecf99315583b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-widgets-release_1e6e47f67c8d1a71b9c59f3db4cf1af177b37a53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\Common-2017.1.908-nstrial-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44becffc98279251a22c49cf669008a773d29c55">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-Common-2017.1.908-nstrial-release_b5132ae0205bd13f92802453aa67a6f4fe80d4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-support-media-compat-26.0.0-alpha1_2809e5be53456e45ad887e795edc430088dadeda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\com.android.support-support-core-ui-26.0.0-alpha1_e2052386e7a173655851fa904a53396f48de0eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\exploded-aar\Chart-2017.1.908-nstrial-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7817456ae76c2c8f7df748be6ac8cf813cc205ec">
+        <dex dex="D:\NativeScriptProjects\Trotec.MultiMeasureMobile\platforms\android\build\intermediates\pre-dexed\F0F1F2\release\intermediates-exploded-aar-Chart-2017.1.908-nstrial-release_1acad09d73660c60971bb9ac5a26662c70f53a53.jar" />
+    </item>
+
+</items>

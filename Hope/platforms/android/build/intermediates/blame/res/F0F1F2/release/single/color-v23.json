@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_tint_switch_track.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_tint_spinner.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_tint_default.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\release\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\NativeScriptProjects\\Trotec.MultiMeasureMobile\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    }
+]

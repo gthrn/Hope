@@ -1,0 +1,20 @@
+.button-icon {
+    font-family: 'fontawesome-webfont', FontAwesome;
+    font-size: 48;
+    float: left;
+    color: white;
+}
+
+.button-text {
+    font-family: 'fontawesome-webfont', FontAwesome;
+    font-size: 24;
+    color: white;
+}
+
+Button {
+    margin: 25px 35px 25px 35px;
+    padding: 15px;
+    border-width: 3px;
+    border-color: yellow;
+    background-color: #575656;
+}
